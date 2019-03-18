@@ -117,5 +117,5 @@ class MyCoroutine : public Coroutine {
 };
 ```
 
-[coroutine.h]: ../blob/master/coroutine.h
-[coroutine.hpp]: ../blob/master/coroutine.hpp
+[coroutine.h]: coroutine.h
+[coroutine.hpp]: coroutine.hpp
